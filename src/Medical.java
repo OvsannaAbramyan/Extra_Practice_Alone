@@ -6,6 +6,8 @@ public class Medical {
         String mmc= "Medicare";
 
         System.out.println(mc);
+        System.out.println(mmc);
     }
 }
 // created some strings
+// printed medical .
