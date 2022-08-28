@@ -4,6 +4,8 @@ public class Medical {
 
         String mc = "Medical";
         String mmc= "Medicare";
+        int a = 1;
+
 
         System.out.println(mc);
         System.out.println(mmc);
