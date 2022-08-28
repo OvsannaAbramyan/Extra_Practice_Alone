@@ -13,3 +13,4 @@ public class Medical {
 }
 // created some strings
 // printed medical .
+// removed medicare string.
